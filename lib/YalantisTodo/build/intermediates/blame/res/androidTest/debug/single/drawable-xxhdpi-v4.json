@@ -60,12 +60,12 @@
         "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
-    },
-    {
         "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
         "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
         "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
@@ -96,12 +96,12 @@
         "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
         "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
         "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png",

@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
         "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_snackbar_background.xml",
         "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
         "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_radio_button.xml",

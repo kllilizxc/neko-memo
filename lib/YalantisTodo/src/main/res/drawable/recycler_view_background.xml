@@ -2,4 +2,4 @@
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
     <corners android:radius="@dimen/corner_radius" />
     <solid android:color="@color/colorBlueLightBackground" />
-</shape>hg
+</shape>

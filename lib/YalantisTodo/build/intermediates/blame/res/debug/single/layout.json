@@ -4,12 +4,12 @@
         "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu.xml"
     },
     {
-        "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
         "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\debug\\layout\\bat_add_view.xml",
         "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\src\\main\\res\\layout\\bat_add_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
         "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
@@ -48,24 +48,24 @@
         "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\debug\\layout\\bat_recycler_view.xml",
-        "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\src\\main\\res\\layout\\bat_recycler_view.xml"
-    },
-    {
         "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
         "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\debug\\layout\\bat_recycler_view.xml",
+        "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\src\\main\\res\\layout\\bat_recycler_view.xml"
     },
     {
         "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
         "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
         "merged": "C:\\Users\\54179\\OneDrive\\Documents\\IntelliJIDEAProjects\\MyTodo\\lib\\YalantisTodo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
